@@ -1,0 +1,724 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gCal='http://schemas.google.com/gCal/2005' xmlns:gd='http://schemas.google.com/g/2005'>
+  <id>http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full</id>
+  <updated>2012-12-01T19:17:12.000Z</updated>
+  <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+  <title type='text'>tacs@aggieacm.org</title>
+  <subtitle type='text'>tacs@aggieacm.org</subtitle>
+  <link rel='alternate' type='text/html' href='http://www.google.com/calendar/embed?src=tacs%40aggieacm.org'/>
+  <link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full'/>
+  <link rel='http://schemas.google.com/g/2005#batch' type='application/atom+xml' href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/batch'/>
+  <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full?max-results=25'/>
+  <link rel='next' type='application/atom+xml' href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full?start-index=26&amp;max-results=25'/>
+  <author>
+    <name>TACS Generic</name>
+    <email>tacs@aggieacm.org</email>
+  </author>
+  <generator version='1.0' uri='http://www.google.com/calendar'>Google Calendar</generator>
+  <openSearch:totalResults>100</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+  <gCal:timezone value='America/Chicago'/>
+  <gCal:timesCleaned value='0'/>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/b3nc6ot4hnikgpthss3s6kpm9c</id>
+    <published>2012-11-06T17:29:21.000Z</published>
+    <updated>2012-11-06T17:29:21.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+    <title type='text'>Compilers - Robert Schumacher</title>
+    <content type='text'/>
+    <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=YjNuYzZvdDRobmlrZ3B0aHNzM3M2a3BtOWMgdGFjc0BhZ2dpZWFjbS5vcmc' title='alternate'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/b3nc6ot4hnikgpthss3s6kpm9c'/>
+    <author>
+      <name>TACS Generic</name>
+      <email>tacs@aggieacm.org</email>
+    </author>
+    <gd:comments>
+      <gd:feedLink href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/b3nc6ot4hnikgpthss3s6kpm9c/comments'/>
+    </gd:comments>
+    <gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+    <gd:where valueString='HRBB 113'/>
+    <gd:who email='tacs@aggieacm.org' rel='http://schemas.google.com/g/2005#event.organizer' valueString='tacs@aggieacm.org'/>
+    <gd:when endTime='2012-11-06T20:30:00.000-06:00' startTime='2012-11-06T19:00:00.000-06:00'/>
+    <gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+    <gCal:anyoneCanAddSelf value='false'/>
+    <gCal:guestsCanInviteOthers value='true'/>
+    <gCal:guestsCanModify value='false'/>
+    <gCal:guestsCanSeeGuests value='true'/>
+    <gCal:sequence value='0'/>
+    <gCal:uid value='b3nc6ot4hnikgpthss3s6kpm9c@google.com'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/d5eurrarebe9lhogn728tv58jg</id>
+    <published>2012-10-23T22:37:55.000Z</published>
+    <updated>2012-10-23T22:37:55.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+    <title type='text'>Nick Mai on LaTeX</title>
+    <content type='text'/>
+    <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=ZDVldXJyYXJlYmU5bGhvZ243Mjh0djU4amcgdGFjc0BhZ2dpZWFjbS5vcmc' title='alternate'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/d5eurrarebe9lhogn728tv58jg'/>
+    <author>
+      <name>TACS Generic</name>
+      <email>tacs@aggieacm.org</email>
+    </author>
+    <gd:comments>
+      <gd:feedLink href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/d5eurrarebe9lhogn728tv58jg/comments'/>
+    </gd:comments>
+    <gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+    <gd:where valueString='HRBB 113'/>
+    <gd:who email='tacs@aggieacm.org' rel='http://schemas.google.com/g/2005#event.organizer' valueString='tacs@aggieacm.org'/>
+    <gd:when endTime='2012-10-23T20:30:00.000-05:00' startTime='2012-10-23T19:00:00.000-05:00'/>
+    <gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+    <gCal:anyoneCanAddSelf value='false'/>
+    <gCal:guestsCanInviteOthers value='true'/>
+    <gCal:guestsCanModify value='false'/>
+    <gCal:guestsCanSeeGuests value='true'/>
+    <gCal:sequence value='0'/>
+    <gCal:uid value='d5eurrarebe9lhogn728tv58jg@google.com'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/e89d2t847q5g1l1cu6m3qohl5c</id>
+    <published>2012-10-10T01:14:48.000Z</published>
+    <updated>2012-10-10T01:14:48.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+    <title type='text'>Company Night: Epic</title>
+    <content type='text'/>
+    <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=ZTg5ZDJ0ODQ3cTVnMWwxY3U2bTNxb2hsNWMgdGFjc0BhZ2dpZWFjbS5vcmc' title='alternate'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/e89d2t847q5g1l1cu6m3qohl5c'/>
+    <author>
+      <name>TACS Generic</name>
+      <email>tacs@aggieacm.org</email>
+    </author>
+    <gd:comments>
+      <gd:feedLink href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/e89d2t847q5g1l1cu6m3qohl5c/comments'/>
+    </gd:comments>
+    <gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+    <gd:where valueString='HRBB 113'/>
+    <gd:who email='tacs@aggieacm.org' rel='http://schemas.google.com/g/2005#event.organizer' valueString='tacs@aggieacm.org'/>
+    <gd:when endTime='2012-11-13T20:30:00.000-06:00' startTime='2012-11-13T19:00:00.000-06:00'/>
+    <gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+    <gCal:anyoneCanAddSelf value='false'/>
+    <gCal:guestsCanInviteOthers value='true'/>
+    <gCal:guestsCanModify value='false'/>
+    <gCal:guestsCanSeeGuests value='true'/>
+    <gCal:sequence value='0'/>
+    <gCal:uid value='e89d2t847q5g1l1cu6m3qohl5c@google.com'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/v5nls6r568746814eusui66nvs</id>
+    <published>2012-09-21T20:37:38.000Z</published>
+    <updated>2012-09-23T03:41:28.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+    <title type='text'>Networking by Nik Johnson</title>
+    <content type='text'>Learn what actually happens when multiple computers communicate across a local network and the internet. How information gets where it should, what an OSI layer is, what a packet contains, and more.</content>
+    <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=djVubHM2cjU2ODc0NjgxNGV1c3VpNjZudnMgdGFjc0BhZ2dpZWFjbS5vcmc' title='alternate'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/v5nls6r568746814eusui66nvs'/>
+    <author>
+      <name>TACS Generic</name>
+      <email>tacs@aggieacm.org</email>
+    </author>
+    <gd:comments>
+      <gd:feedLink href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/v5nls6r568746814eusui66nvs/comments'/>
+    </gd:comments>
+    <gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+    <gd:where valueString='HRBB 113'/>
+    <gd:who email='tacs@aggieacm.org' rel='http://schemas.google.com/g/2005#event.organizer' valueString='tacs@aggieacm.org'/>
+    <gd:when endTime='2012-09-25T20:00:00.000-05:00' startTime='2012-09-25T19:00:00.000-05:00'/>
+    <gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+    <gCal:anyoneCanAddSelf value='false'/>
+    <gCal:guestsCanInviteOthers value='true'/>
+    <gCal:guestsCanModify value='false'/>
+    <gCal:guestsCanSeeGuests value='true'/>
+    <gCal:sequence value='0'/>
+    <gCal:uid value='v5nls6r568746814eusui66nvs@google.com'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/il5049s79sq0uorq5qusqccnm8</id>
+    <published>2012-09-23T03:12:35.000Z</published>
+    <updated>2012-09-23T03:24:09.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+    <title type='text'>DOMinating the Web by Eric Wood</title>
+    <content type='text'>Uncover the inner workings of web pages and front-end web development. Stylesheets, AJAX, you name it. We will discuss it, and you will learn.</content>
+    <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=aWw1MDQ5czc5c3EwdW9ycTVxdXNxY2NubTggdGFjc0BhZ2dpZWFjbS5vcmc' title='alternate'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/il5049s79sq0uorq5qusqccnm8'/>
+    <author>
+      <name>TACS Generic</name>
+      <email>tacs@aggieacm.org</email>
+    </author>
+    <gd:comments>
+      <gd:feedLink href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/il5049s79sq0uorq5qusqccnm8/comments'/>
+    </gd:comments>
+    <gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+    <gd:where valueString='HRBB 113'/>
+    <gd:who email='tacs@aggieacm.org' rel='http://schemas.google.com/g/2005#event.organizer' valueString='TACS Generic'/>
+    <gd:when endTime='2012-10-09T20:00:00.000-05:00' startTime='2012-10-09T19:00:00.000-05:00'/>
+    <gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+    <gCal:anyoneCanAddSelf value='false'/>
+    <gCal:guestsCanInviteOthers value='true'/>
+    <gCal:guestsCanModify value='false'/>
+    <gCal:guestsCanSeeGuests value='true'/>
+    <gCal:sequence value='0'/>
+    <gCal:uid value='il5049s79sq0uorq5qusqccnm8@google.com'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/j8r7lonl7m2mhsukbuks3rhuck</id>
+    <published>2012-09-17T01:11:51.000Z</published>
+    <updated>2012-09-18T16:32:46.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+    <title type='text'>Company Night: Spiceworks</title>
+    <content type='text'/>
+    <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=ajhyN2xvbmw3bTJtaHN1a2J1a3Mzcmh1Y2sgdGFjc0BhZ2dpZWFjbS5vcmc' title='alternate'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/j8r7lonl7m2mhsukbuks3rhuck'/>
+    <author>
+      <name>TACS Generic</name>
+      <email>tacs@aggieacm.org</email>
+    </author>
+    <gd:comments>
+      <gd:feedLink href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/j8r7lonl7m2mhsukbuks3rhuck/comments'/>
+    </gd:comments>
+    <gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+    <gd:where valueString='HRBB 113'/>
+    <gd:who email='tacs@aggieacm.org' rel='http://schemas.google.com/g/2005#event.organizer' valueString='tacs@aggieacm.org'/>
+    <gd:when endTime='2012-09-18T20:00:00.000-05:00' startTime='2012-09-18T19:00:00.000-05:00'/>
+    <gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+    <gCal:anyoneCanAddSelf value='false'/>
+    <gCal:guestsCanInviteOthers value='true'/>
+    <gCal:guestsCanModify value='false'/>
+    <gCal:guestsCanSeeGuests value='true'/>
+    <gCal:sequence value='0'/>
+    <gCal:uid value='j8r7lonl7m2mhsukbuks3rhuck@google.com'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/hju8hdam6cl37lb9ufg4g96tfc</id>
+    <published>2012-09-18T16:28:39.000Z</published>
+    <updated>2012-09-18T16:28:39.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+    <title type='text'>Conpany Night: Calxeda </title>
+    <content type='text'/>
+    <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=aGp1OGhkYW02Y2wzN2xiOXVmZzRnOTZ0ZmMgdGFjc0BhZ2dpZWFjbS5vcmc' title='alternate'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/hju8hdam6cl37lb9ufg4g96tfc'/>
+    <author>
+      <name>TACS Generic</name>
+      <email>tacs@aggieacm.org</email>
+    </author>
+    <gd:comments>
+      <gd:feedLink href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/hju8hdam6cl37lb9ufg4g96tfc/comments'/>
+    </gd:comments>
+    <gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+    <gd:where valueString='HRBB 113'/>
+    <gd:who email='tacs@aggieacm.org' rel='http://schemas.google.com/g/2005#event.organizer' valueString='tacs@aggieacm.org'/>
+    <gd:when endTime='2012-10-30T20:00:00.000-05:00' startTime='2012-10-30T19:00:00.000-05:00'/>
+    <gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+    <gCal:anyoneCanAddSelf value='false'/>
+    <gCal:guestsCanInviteOthers value='true'/>
+    <gCal:guestsCanModify value='false'/>
+    <gCal:guestsCanSeeGuests value='true'/>
+    <gCal:sequence value='0'/>
+    <gCal:uid value='hju8hdam6cl37lb9ufg4g96tfc@google.com'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/q24hkue3emig8bav6pqqdg3jms</id>
+    <published>2012-09-18T16:27:26.000Z</published>
+    <updated>2012-09-18T16:27:40.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+    <title type='text'>Company Night: Sandia</title>
+    <content type='text'/>
+    <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=cTI0aGt1ZTNlbWlnOGJhdjZwcXFkZzNqbXMgdGFjc0BhZ2dpZWFjbS5vcmc' title='alternate'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/q24hkue3emig8bav6pqqdg3jms'/>
+    <author>
+      <name>TACS Generic</name>
+      <email>tacs@aggieacm.org</email>
+    </author>
+    <gd:comments>
+      <gd:feedLink href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/q24hkue3emig8bav6pqqdg3jms/comments'/>
+    </gd:comments>
+    <gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+    <gd:where valueString='HRBB 113'/>
+    <gd:who email='tacs@aggieacm.org' rel='http://schemas.google.com/g/2005#event.organizer' valueString='tacs@aggieacm.org'/>
+    <gd:when endTime='2012-10-16T20:00:00.000-05:00' startTime='2012-10-16T19:00:00.000-05:00'/>
+    <gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+    <gCal:anyoneCanAddSelf value='false'/>
+    <gCal:guestsCanInviteOthers value='true'/>
+    <gCal:guestsCanModify value='false'/>
+    <gCal:guestsCanSeeGuests value='true'/>
+    <gCal:sequence value='0'/>
+    <gCal:uid value='q24hkue3emig8bav6pqqdg3jms@google.com'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/qqdm99dek7un9qts5bdc4o89qk</id>
+    <published>2012-09-18T16:27:12.000Z</published>
+    <updated>2012-09-18T16:27:12.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+    <title type='text'>Company Night: HCSS</title>
+    <content type='text'/>
+    <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=cXFkbTk5ZGVrN3VuOXF0czViZGM0bzg5cWsgdGFjc0BhZ2dpZWFjbS5vcmc' title='alternate'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/qqdm99dek7un9qts5bdc4o89qk'/>
+    <author>
+      <name>TACS Generic</name>
+      <email>tacs@aggieacm.org</email>
+    </author>
+    <gd:comments>
+      <gd:feedLink href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/qqdm99dek7un9qts5bdc4o89qk/comments'/>
+    </gd:comments>
+    <gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+    <gd:where valueString='HRBB 113'/>
+    <gd:who email='tacs@aggieacm.org' rel='http://schemas.google.com/g/2005#event.organizer' valueString='tacs@aggieacm.org'/>
+    <gd:when endTime='2012-10-02T20:00:00.000-05:00' startTime='2012-10-02T19:00:00.000-05:00'/>
+    <gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+    <gCal:anyoneCanAddSelf value='false'/>
+    <gCal:guestsCanInviteOthers value='true'/>
+    <gCal:guestsCanModify value='false'/>
+    <gCal:guestsCanSeeGuests value='true'/>
+    <gCal:sequence value='0'/>
+    <gCal:uid value='qqdm99dek7un9qts5bdc4o89qk@google.com'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/9k4cl7q4vogm1bc90l3mlthq98</id>
+    <published>2012-09-04T19:22:46.000Z</published>
+    <updated>2012-09-04T19:22:46.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+    <title type='text'>Introductory meeting</title>
+    <content type='text'/>
+    <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=OWs0Y2w3cTR2b2dtMWJjOTBsM21sdGhxOTggdGFjc0BhZ2dpZWFjbS5vcmc' title='alternate'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/9k4cl7q4vogm1bc90l3mlthq98'/>
+    <author>
+      <name>TACS Generic</name>
+      <email>tacs@aggieacm.org</email>
+    </author>
+    <gd:comments>
+      <gd:feedLink href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/9k4cl7q4vogm1bc90l3mlthq98/comments'/>
+    </gd:comments>
+    <gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+    <gd:where valueString='HRBB 113'/>
+    <gd:who email='tacs@aggieacm.org' rel='http://schemas.google.com/g/2005#event.organizer' valueString='tacs@aggieacm.org'/>
+    <gd:when endTime='2012-09-04T20:00:00.000-05:00' startTime='2012-09-04T19:00:00.000-05:00'/>
+    <gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+    <gCal:anyoneCanAddSelf value='false'/>
+    <gCal:guestsCanInviteOthers value='true'/>
+    <gCal:guestsCanModify value='false'/>
+    <gCal:guestsCanSeeGuests value='true'/>
+    <gCal:sequence value='0'/>
+    <gCal:uid value='9k4cl7q4vogm1bc90l3mlthq98@google.com'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/mvp728g3jvetmnt0fm78j4oimg</id>
+    <published>2012-04-23T23:57:01.000Z</published>
+    <updated>2012-04-23T23:57:01.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+    <title type='text'>Elections</title>
+    <content type='text'>The semester is coming to a close, and it's time for us to decide on our leadership for the upcoming year.</content>
+    <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=bXZwNzI4ZzNqdmV0bW50MGZtNzhqNG9pbWcgdGFjc0BhZ2dpZWFjbS5vcmc' title='alternate'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/mvp728g3jvetmnt0fm78j4oimg'/>
+    <author>
+      <name>TACS Generic</name>
+      <email>tacs@aggieacm.org</email>
+    </author>
+    <gd:comments>
+      <gd:feedLink href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/mvp728g3jvetmnt0fm78j4oimg/comments'/>
+    </gd:comments>
+    <gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+    <gd:where valueString='HRBB 113'/>
+    <gd:who email='tacs@aggieacm.org' rel='http://schemas.google.com/g/2005#event.organizer' valueString='tacs@aggieacm.org'/>
+    <gd:when endTime='2012-04-24T20:30:00.000-05:00' startTime='2012-04-24T19:00:00.000-05:00'/>
+    <gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+    <gCal:anyoneCanAddSelf value='false'/>
+    <gCal:guestsCanInviteOthers value='true'/>
+    <gCal:guestsCanModify value='false'/>
+    <gCal:guestsCanSeeGuests value='true'/>
+    <gCal:sequence value='0'/>
+    <gCal:uid value='mvp728g3jvetmnt0fm78j4oimg@google.com'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/huo4adpn99i5dhhcrbbncfn2p8</id>
+    <published>2012-04-23T23:54:58.000Z</published>
+    <updated>2012-04-23T23:54:58.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+    <title type='text'>LAN Party!</title>
+    <content type='text'>The first ever official TACS LAN party. For more information: http://tacs.tamu.edu/lan</content>
+    <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=aHVvNGFkcG45OWk1ZGhoY3JiYm5jZm4ycDggdGFjc0BhZ2dpZWFjbS5vcmc' title='alternate'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/huo4adpn99i5dhhcrbbncfn2p8'/>
+    <author>
+      <name>TACS Generic</name>
+      <email>tacs@aggieacm.org</email>
+    </author>
+    <gd:comments>
+      <gd:feedLink href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/huo4adpn99i5dhhcrbbncfn2p8/comments'/>
+    </gd:comments>
+    <gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+    <gd:where valueString='Zachry Lobby'/>
+    <gd:who email='tacs@aggieacm.org' rel='http://schemas.google.com/g/2005#event.organizer' valueString='tacs@aggieacm.org'/>
+    <gd:when endTime='2012-04-28T23:00:00.000-05:00' startTime='2012-04-28T07:00:00.000-05:00'/>
+    <gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+    <gCal:anyoneCanAddSelf value='false'/>
+    <gCal:guestsCanInviteOthers value='true'/>
+    <gCal:guestsCanModify value='false'/>
+    <gCal:guestsCanSeeGuests value='true'/>
+    <gCal:sequence value='0'/>
+    <gCal:uid value='huo4adpn99i5dhhcrbbncfn2p8@google.com'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/i793h8qnobklbur5gv8t6a322c</id>
+    <published>2012-04-09T19:37:39.000Z</published>
+    <updated>2012-04-09T22:52:14.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+    <title type='text'>How the internet works - Nik Johnson</title>
+    <content type='text'>How the internet works, from the ground up.</content>
+    <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=aTc5M2g4cW5vYmtsYnVyNWd2OHQ2YTMyMmMgdGFjc0BhZ2dpZWFjbS5vcmc' title='alternate'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/i793h8qnobklbur5gv8t6a322c'/>
+    <author>
+      <name>TACS Generic</name>
+      <email>tacs@aggieacm.org</email>
+    </author>
+    <gd:comments>
+      <gd:feedLink href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/i793h8qnobklbur5gv8t6a322c/comments'/>
+    </gd:comments>
+    <gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+    <gd:where valueString='HRBB 113'/>
+    <gd:who email='tacs@aggieacm.org' rel='http://schemas.google.com/g/2005#event.organizer' valueString='tacs@aggieacm.org'/>
+    <gd:when endTime='2012-04-10T20:30:00.000-05:00' startTime='2012-04-10T19:00:00.000-05:00'/>
+    <gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+    <gCal:anyoneCanAddSelf value='false'/>
+    <gCal:guestsCanInviteOthers value='true'/>
+    <gCal:guestsCanModify value='false'/>
+    <gCal:guestsCanSeeGuests value='true'/>
+    <gCal:sequence value='0'/>
+    <gCal:uid value='i793h8qnobklbur5gv8t6a322c@google.com'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/3jjqipf5e3g0ann3j34ohq6i4o</id>
+    <published>2012-03-29T05:03:06.000Z</published>
+    <updated>2012-03-29T05:03:06.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+    <title type='text'>Company Night - Credera</title>
+    <content type='text'/>
+    <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=M2pqcWlwZjVlM2cwYW5uM2ozNG9ocTZpNG8gdGFjc0BhZ2dpZWFjbS5vcmc' title='alternate'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/3jjqipf5e3g0ann3j34ohq6i4o'/>
+    <author>
+      <name>TACS Generic</name>
+      <email>tacs@aggieacm.org</email>
+    </author>
+    <gd:comments>
+      <gd:feedLink href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/3jjqipf5e3g0ann3j34ohq6i4o/comments'/>
+    </gd:comments>
+    <gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+    <gd:where valueString=''/>
+    <gd:who email='tacs@aggieacm.org' rel='http://schemas.google.com/g/2005#event.organizer' valueString='tacs@aggieacm.org'/>
+    <gd:when endTime='2012-04-03T20:30:00.000-05:00' startTime='2012-04-03T19:00:00.000-05:00'/>
+    <gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+    <gCal:anyoneCanAddSelf value='false'/>
+    <gCal:guestsCanInviteOthers value='true'/>
+    <gCal:guestsCanModify value='false'/>
+    <gCal:guestsCanSeeGuests value='true'/>
+    <gCal:sequence value='0'/>
+    <gCal:uid value='3jjqipf5e3g0ann3j34ohq6i4o@google.com'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/7bblcvbjsjvmbki9u14j5udht8</id>
+    <published>2012-03-27T04:50:25.000Z</published>
+    <updated>2012-03-27T04:50:25.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+    <title type='text'>Parsers - Robert Schumacher</title>
+    <content type='text'>Ever wonder how programs make sense of text? This talk will provide an introduction to various parsing techniques as well as show you how to incorporate parsing tools into your own projects.</content>
+    <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=N2JibGN2YmpzanZtYmtpOXUxNGo1dWRodDggdGFjc0BhZ2dpZWFjbS5vcmc' title='alternate'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/7bblcvbjsjvmbki9u14j5udht8'/>
+    <author>
+      <name>TACS Generic</name>
+      <email>tacs@aggieacm.org</email>
+    </author>
+    <gd:comments>
+      <gd:feedLink href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/7bblcvbjsjvmbki9u14j5udht8/comments'/>
+    </gd:comments>
+    <gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+    <gd:where valueString='HRBB 113'/>
+    <gd:who email='tacs@aggieacm.org' rel='http://schemas.google.com/g/2005#event.organizer' valueString='tacs@aggieacm.org'/>
+    <gd:when endTime='2012-03-27T20:30:00.000-05:00' startTime='2012-03-27T19:00:00.000-05:00'/>
+    <gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+    <gCal:anyoneCanAddSelf value='false'/>
+    <gCal:guestsCanInviteOthers value='true'/>
+    <gCal:guestsCanModify value='false'/>
+    <gCal:guestsCanSeeGuests value='true'/>
+    <gCal:sequence value='0'/>
+    <gCal:uid value='7bblcvbjsjvmbki9u14j5udht8@google.com'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/5b51chja3sq3e5qt3p7s9n7cik</id>
+    <published>2012-03-16T23:55:46.000Z</published>
+    <updated>2012-03-16T23:55:46.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+    <title type='text'>Company Night: ExxonMobil</title>
+    <content type='text'/>
+    <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=NWI1MWNoamEzc3EzZTVxdDNwN3M5bjdjaWsgdGFjc0BhZ2dpZWFjbS5vcmc' title='alternate'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/5b51chja3sq3e5qt3p7s9n7cik'/>
+    <author>
+      <name>TACS Generic</name>
+      <email>tacs@aggieacm.org</email>
+    </author>
+    <gd:comments>
+      <gd:feedLink href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/5b51chja3sq3e5qt3p7s9n7cik/comments'/>
+    </gd:comments>
+    <gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+    <gd:where valueString='HRBB 113'/>
+    <gd:who email='tacs@aggieacm.org' rel='http://schemas.google.com/g/2005#event.organizer' valueString='tacs@aggieacm.org'/>
+    <gd:when endTime='2012-04-17T20:30:00.000-05:00' startTime='2012-04-17T19:00:00.000-05:00'/>
+    <gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+    <gCal:anyoneCanAddSelf value='false'/>
+    <gCal:guestsCanInviteOthers value='true'/>
+    <gCal:guestsCanModify value='false'/>
+    <gCal:guestsCanSeeGuests value='true'/>
+    <gCal:sequence value='0'/>
+    <gCal:uid value='5b51chja3sq3e5qt3p7s9n7cik@google.com'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/rlccaavrc5bn588umsis3et180</id>
+    <published>2012-03-06T20:32:59.000Z</published>
+    <updated>2012-03-06T20:32:59.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+    <title type='text'>VPN - Robert Schumacher</title>
+    <content type='text'/>
+    <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=cmxjY2FhdnJjNWJuNTg4dW1zaXMzZXQxODAgdGFjc0BhZ2dpZWFjbS5vcmc' title='alternate'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/rlccaavrc5bn588umsis3et180'/>
+    <author>
+      <name>TACS Generic</name>
+      <email>tacs@aggieacm.org</email>
+    </author>
+    <gd:comments>
+      <gd:feedLink href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/rlccaavrc5bn588umsis3et180/comments'/>
+    </gd:comments>
+    <gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+    <gd:where valueString=''/>
+    <gd:who email='tacs@aggieacm.org' rel='http://schemas.google.com/g/2005#event.organizer' valueString='tacs@aggieacm.org'/>
+    <gd:when endTime='2012-03-06T20:30:00.000-06:00' startTime='2012-03-06T19:00:00.000-06:00'/>
+    <gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+    <gCal:anyoneCanAddSelf value='false'/>
+    <gCal:guestsCanInviteOthers value='true'/>
+    <gCal:guestsCanModify value='false'/>
+    <gCal:guestsCanSeeGuests value='true'/>
+    <gCal:sequence value='0'/>
+    <gCal:uid value='rlccaavrc5bn588umsis3et180@google.com'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/d1q2sne5pu295pnnbb3ic3q0i4</id>
+    <published>2012-02-28T20:17:42.000Z</published>
+    <updated>2012-02-28T20:17:42.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+    <title type='text'>Ruby Derailed - Eric Wood</title>
+    <content type='text'>An introduction to the Ruby programming language</content>
+    <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=ZDFxMnNuZTVwdTI5NXBubmJiM2ljM3EwaTQgdGFjc0BhZ2dpZWFjbS5vcmc' title='alternate'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/d1q2sne5pu295pnnbb3ic3q0i4'/>
+    <author>
+      <name>TACS Generic</name>
+      <email>tacs@aggieacm.org</email>
+    </author>
+    <gd:comments>
+      <gd:feedLink href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/d1q2sne5pu295pnnbb3ic3q0i4/comments'/>
+    </gd:comments>
+    <gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+    <gd:where valueString='HRBB 113'/>
+    <gd:who email='tacs@aggieacm.org' rel='http://schemas.google.com/g/2005#event.organizer' valueString='tacs@aggieacm.org'/>
+    <gd:when endTime='2012-02-28T20:30:00.000-06:00' startTime='2012-02-28T19:00:00.000-06:00'/>
+    <gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+    <gCal:anyoneCanAddSelf value='false'/>
+    <gCal:guestsCanInviteOthers value='true'/>
+    <gCal:guestsCanModify value='false'/>
+    <gCal:guestsCanSeeGuests value='true'/>
+    <gCal:sequence value='0'/>
+    <gCal:uid value='d1q2sne5pu295pnnbb3ic3q0i4@google.com'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/ura4u814j0oir8lqnubv2hoa30</id>
+    <published>2012-01-30T22:17:45.000Z</published>
+    <updated>2012-01-31T00:51:12.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+    <title type='text'>What I do for a living - Matt Mullins</title>
+    <content type='text'>Matt Mullins, a previous member of TACS, went off into the real world to work at imo.im, a startup company that does instant messaging.He's back to tell us what he does and things he's learned.</content>
+    <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=dXJhNHU4MTRqMG9pcjhscW51YnYyaG9hMzAgdGFjc0BhZ2dpZWFjbS5vcmc' title='alternate'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/ura4u814j0oir8lqnubv2hoa30'/>
+    <author>
+      <name>TACS Generic</name>
+      <email>tacs@aggieacm.org</email>
+    </author>
+    <gd:comments>
+      <gd:feedLink href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/ura4u814j0oir8lqnubv2hoa30/comments'/>
+    </gd:comments>
+    <gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+    <gd:where valueString='HRBB 113'/>
+    <gd:who email='tacs@aggieacm.org' rel='http://schemas.google.com/g/2005#event.organizer' valueString='tacs@aggieacm.org'/>
+    <gd:when endTime='2012-02-21T20:30:00.000-06:00' startTime='2012-02-21T19:00:00.000-06:00'/>
+    <gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+    <gCal:anyoneCanAddSelf value='false'/>
+    <gCal:guestsCanInviteOthers value='true'/>
+    <gCal:guestsCanModify value='false'/>
+    <gCal:guestsCanSeeGuests value='true'/>
+    <gCal:sequence value='0'/>
+    <gCal:uid value='ura4u814j0oir8lqnubv2hoa30@google.com'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/3jt4aci2vu53sd2p26k99gutls</id>
+    <published>2012-01-30T22:15:41.000Z</published>
+    <updated>2012-01-30T22:15:41.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+    <title type='text'>LaTeX - Nick Mai</title>
+    <content type='text'>Learn the basics of the LaTeX (la-tech) typesetting language. Write beautiful papers and create complex mathematical functions with ease!</content>
+    <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=M2p0NGFjaTJ2dTUzc2QycDI2azk5Z3V0bHMgdGFjc0BhZ2dpZWFjbS5vcmc' title='alternate'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/3jt4aci2vu53sd2p26k99gutls'/>
+    <author>
+      <name>TACS Generic</name>
+      <email>tacs@aggieacm.org</email>
+    </author>
+    <gd:comments>
+      <gd:feedLink href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/3jt4aci2vu53sd2p26k99gutls/comments'/>
+    </gd:comments>
+    <gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+    <gd:where valueString='HRBB 113'/>
+    <gd:who email='tacs@aggieacm.org' rel='http://schemas.google.com/g/2005#event.organizer' valueString='tacs@aggieacm.org'/>
+    <gd:when endTime='2012-02-07T20:30:00.000-06:00' startTime='2012-02-07T19:00:00.000-06:00'/>
+    <gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+    <gCal:anyoneCanAddSelf value='false'/>
+    <gCal:guestsCanInviteOthers value='true'/>
+    <gCal:guestsCanModify value='false'/>
+    <gCal:guestsCanSeeGuests value='true'/>
+    <gCal:sequence value='0'/>
+    <gCal:uid value='3jt4aci2vu53sd2p26k99gutls@google.com'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/l7k5jghv3n88387794te175s9g</id>
+    <published>2012-01-30T22:13:06.000Z</published>
+    <updated>2012-01-30T22:14:03.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+    <title type='text'>Operating Systems - Robert Schumacher</title>
+    <content type='text'>Learn about what happens behind the scenes in your computer.</content>
+    <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=bDdrNWpnaHYzbjg4Mzg3Nzk0dGUxNzVzOWcgdGFjc0BhZ2dpZWFjbS5vcmc' title='alternate'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/l7k5jghv3n88387794te175s9g'/>
+    <author>
+      <name>TACS Generic</name>
+      <email>tacs@aggieacm.org</email>
+    </author>
+    <gd:comments>
+      <gd:feedLink href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/l7k5jghv3n88387794te175s9g/comments'/>
+    </gd:comments>
+    <gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+    <gd:where valueString='HRBB 113'/>
+    <gd:who email='tacs@aggieacm.org' rel='http://schemas.google.com/g/2005#event.organizer' valueString='tacs@aggieacm.org'/>
+    <gd:when endTime='2012-01-31T21:00:00.000-06:00' startTime='2012-01-31T19:00:00.000-06:00'/>
+    <gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+    <gCal:anyoneCanAddSelf value='false'/>
+    <gCal:guestsCanInviteOthers value='true'/>
+    <gCal:guestsCanModify value='false'/>
+    <gCal:guestsCanSeeGuests value='true'/>
+    <gCal:sequence value='0'/>
+    <gCal:uid value='l7k5jghv3n88387794te175s9g@google.com'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/5nh6c5n8s5jv8eqs90km17jt5k</id>
+    <published>2012-01-17T21:02:22.000Z</published>
+    <updated>2012-01-17T21:03:16.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+    <title type='text'>Lecture/LAN party planning!</title>
+    <content type='text'>The first meeting of the new semester!We'll be discussing upcoming talks as well as starting some planning of the imminent LAN party!</content>
+    <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=NW5oNmM1bjhzNWp2OGVxczkwa20xN2p0NWsgdGFjc0BhZ2dpZWFjbS5vcmc' title='alternate'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/5nh6c5n8s5jv8eqs90km17jt5k'/>
+    <author>
+      <name>TACS Generic</name>
+      <email>tacs@aggieacm.org</email>
+    </author>
+    <gd:comments>
+      <gd:feedLink href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/5nh6c5n8s5jv8eqs90km17jt5k/comments'/>
+    </gd:comments>
+    <gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+    <gd:where valueString='HRBB 113'/>
+    <gd:who email='tacs@aggieacm.org' rel='http://schemas.google.com/g/2005#event.organizer' valueString='tacs@aggieacm.org'/>
+    <gd:when endTime='2012-01-24T21:00:00.000-06:00' startTime='2012-01-24T19:00:00.000-06:00'/>
+    <gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+    <gCal:anyoneCanAddSelf value='false'/>
+    <gCal:guestsCanInviteOthers value='true'/>
+    <gCal:guestsCanModify value='false'/>
+    <gCal:guestsCanSeeGuests value='true'/>
+    <gCal:sequence value='0'/>
+    <gCal:uid value='5nh6c5n8s5jv8eqs90km17jt5k@google.com'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/a7lj9qrsegrhfolnks7afi7q9g</id>
+    <published>2011-10-26T19:26:51.000Z</published>
+    <updated>2011-10-26T19:26:51.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+    <title type='text'>Clojure - Zack Maril</title>
+    <content type='text'/>
+    <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=YTdsajlxcnNlZ3JoZm9sbmtzN2FmaTdxOWcgdGFjc0BhZ2dpZWFjbS5vcmc' title='alternate'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/a7lj9qrsegrhfolnks7afi7q9g'/>
+    <author>
+      <name>TACS Generic</name>
+      <email>tacs@aggieacm.org</email>
+    </author>
+    <gd:comments>
+      <gd:feedLink href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/a7lj9qrsegrhfolnks7afi7q9g/comments'/>
+    </gd:comments>
+    <gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+    <gd:where valueString=''/>
+    <gd:who email='tacs@aggieacm.org' rel='http://schemas.google.com/g/2005#event.organizer' valueString='tacs@aggieacm.org'/>
+    <gd:when endTime='2011-11-08T21:00:00.000-06:00' startTime='2011-11-08T19:00:00.000-06:00'/>
+    <gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+    <gCal:anyoneCanAddSelf value='false'/>
+    <gCal:guestsCanInviteOthers value='true'/>
+    <gCal:guestsCanModify value='false'/>
+    <gCal:guestsCanSeeGuests value='true'/>
+    <gCal:sequence value='0'/>
+    <gCal:uid value='a7lj9qrsegrhfolnks7afi7q9g@google.com'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/43hpglicuqfmffomis2s5laoto</id>
+    <published>2011-10-26T19:23:40.000Z</published>
+    <updated>2011-10-26T19:23:40.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+    <title type='text'>Company night: Tektronix</title>
+    <content type='text'/>
+    <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=NDNocGdsaWN1cWZtZmZvbWlzMnM1bGFvdG8gdGFjc0BhZ2dpZWFjbS5vcmc' title='alternate'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/43hpglicuqfmffomis2s5laoto'/>
+    <author>
+      <name>TACS Generic</name>
+      <email>tacs@aggieacm.org</email>
+    </author>
+    <gd:comments>
+      <gd:feedLink href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/43hpglicuqfmffomis2s5laoto/comments'/>
+    </gd:comments>
+    <gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+    <gd:where valueString=''/>
+    <gd:who email='tacs@aggieacm.org' rel='http://schemas.google.com/g/2005#event.organizer' valueString='tacs@aggieacm.org'/>
+    <gd:when endTime='2011-11-01T21:00:00.000-05:00' startTime='2011-11-01T19:00:00.000-05:00'/>
+    <gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+    <gCal:anyoneCanAddSelf value='false'/>
+    <gCal:guestsCanInviteOthers value='true'/>
+    <gCal:guestsCanModify value='false'/>
+    <gCal:guestsCanSeeGuests value='true'/>
+    <gCal:sequence value='0'/>
+    <gCal:uid value='43hpglicuqfmffomis2s5laoto@google.com'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/j6qtudvt9hbtk9tn9kbfkthpi8</id>
+    <published>2011-10-10T14:48:33.000Z</published>
+    <updated>2011-10-10T21:05:23.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+    <title type='text'>Company night: Spiceworks</title>
+    <content type='text'>We have some guests from Spiceworks talking to us, including the VP and co-founder of the company! Come hear about what they do, how they do it, and get a chance to learn from a company that matured from a small startup.</content>
+    <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=ajZxdHVkdnQ5aGJ0azl0bjlrYmZrdGhwaTggdGFjc0BhZ2dpZWFjbS5vcmc' title='alternate'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/j6qtudvt9hbtk9tn9kbfkthpi8'/>
+    <author>
+      <name>TACS Generic</name>
+      <email>tacs@aggieacm.org</email>
+    </author>
+    <gd:comments>
+      <gd:feedLink href='http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full/j6qtudvt9hbtk9tn9kbfkthpi8/comments'/>
+    </gd:comments>
+    <gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+    <gd:where valueString='HRBB 113'/>
+    <gd:who email='tacs@aggieacm.org' rel='http://schemas.google.com/g/2005#event.organizer' valueString='tacs@aggieacm.org'/>
+    <gd:when endTime='2011-10-11T21:00:00.000-05:00' startTime='2011-10-11T19:00:00.000-05:00'/>
+    <gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+    <gCal:anyoneCanAddSelf value='false'/>
+    <gCal:guestsCanInviteOthers value='true'/>
+    <gCal:guestsCanModify value='false'/>
+    <gCal:guestsCanSeeGuests value='true'/>
+    <gCal:sequence value='1'/>
+    <gCal:uid value='j6qtudvt9hbtk9tn9kbfkthpi8@google.com'/>
+  </entry>
+</feed>
+
