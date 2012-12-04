@@ -28,7 +28,8 @@ class Scraper
         :summary   => entry.css('content').text,
         :start     => entry.xpath('gd:when').first['startTime'],
         :end       => entry.xpath('gd:when').first['endTime'],
-        :where     => entry.xpath('gd:where').first['valueString']
+        :where     => entry.xpath('gd:where').first['valueString'],
+        :url       => entry.css('link').first['href']
       }
       
       @events << Event.new(fields)

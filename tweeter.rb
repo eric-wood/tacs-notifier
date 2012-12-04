@@ -41,10 +41,8 @@ class Tweeter
       end
     end
 
-    if @client.authorized?
-      puts "Thanks! You're all set."
-    else
-      puts "Something went wrong."
+    unless @client.authorized?
+      puts "Something went wrong, and authorization failed."
       puts "If Eric had bothered with error checking maybe this error would be useful"
     end
   end
