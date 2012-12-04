@@ -1,0 +1,7 @@
+{
+  "calendar_url": "http://www.google.com/calendar/feeds/tacs%40aggieacm.org/public/full",
+  "consumer_key": "CONSUMER KEY GOES HERE",
+  "consumer_secret": "CONSUMER SECRET GOES HERE",
+  "tweet_string": "Next meeting: %t | %u"
+}
+
