@@ -1,6 +1,7 @@
 #require 'net/http'
 require 'open-uri'
 require 'nokogiri'
+require 'date'
 require_relative 'event.rb'
 
 class Scraper
@@ -26,8 +27,8 @@ class Scraper
         :published => entry.css('published').text,
         :title     => entry.css('title').text,
         :summary   => entry.css('content').text,
-        :start     => entry.xpath('gd:when').first['startTime'],
-        :end       => entry.xpath('gd:when').first['endTime'],
+        :start     => DateTime.parse(entry.xpath('gd:when').first['startTime']),
+        :end       => DateTime.parse(entry.xpath('gd:when').first['endTime']),
         :where     => entry.xpath('gd:where').first['valueString'],
         :url       => entry.css('link').first['href']
       }

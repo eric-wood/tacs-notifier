@@ -16,10 +16,29 @@ scraper = Scraper.new(config['calendar_url'])
 
 scraper.scrape
 events = scraper.events
-event = events.first
 
-# TODO: logic for checking dates/times
-tweet = config['tweet_string']
-tweet.gsub!(/%t/, event.title)
-tweet.gsub!(/%u/, event.url)
-tweeter.tweet(tweet)
+# Sort descending (first event is most recent)
+events.sort! { |a,b| b.start <=> a.start }
+
+# Remove all but the upcoming events
+events.reject! { |e| e.start < DateTime.now }
+tweeted = File.open('tweeted.txt').read.split
+
+# Remove previously tweeted events
+events.reject! { |e| tweeted.include?(e.id) }
+
+# Tweet if the event is happening within 24 hours
+events.reject! { |e| (e.start - 24) >= DateTime.now }
+
+events.each do |event|
+  # Note that we tweeted about this event!
+  File.open('tweeted.txt', 'a') do |f|
+    f.write("{event.id}\n")
+  end
+
+  tweet = config['tweet_string']
+  tweet.gsub!(/%t/, event.title)
+  tweet.gsub!(/%u/, event.url)
+  tweeter.tweet(tweet)
+end
+

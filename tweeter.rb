@@ -15,31 +15,6 @@ class Tweeter
         :secret          => @tokens['secret']
       )
     else
-      #@client = TwitterOAuth::Client.new(
-      #  :consumer_key    => @consumer['consumer_key'],
-      #  :consumer_secret => @consumer['consumer_secret']
-      #)
-
-      #request_token = @client.authentication_request_token(
-      #  :oauth_callback => 'oob'
-      #)
-
-      #puts "You need to authorize this app with the Twitter account."
-      #puts "Please visit this URL and type in the PIN here:"
-      #puts request_token.authorize_url
-      #print "PIN: "
-      #code = gets.strip
-
-      #access_token = @client.authorize(
-      #  request_token.token,
-      #  request_token.secret,
-      #  :oauth_verifier => code
-      #)
-
-      #File.open('tokens.json', 'w') do |f|
-      #  f.write(JSON.dump({'token' => access_token.token, 'secret' => access_token.secret}))
-      #end
-
       puts "Missing OAuth tokens! You need to run setup.rb to generate these and authenticate with Twitter"
       exit 1
     end
